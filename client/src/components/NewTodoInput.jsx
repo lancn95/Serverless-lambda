@@ -10,6 +10,11 @@ export function NewTodoInput({ onNewTodo }) {
   const { getAccessTokenSilently } = useAuth0()
 
   const onTodoCreate = async (event) => {
+    // Validate that the newTodoName is not empty
+    if (!newTodoName.trim()) {
+      alert('Todo name cannot be empty')
+      return
+    }
     try {
       const accessToken = await getAccessTokenSilently({
         audience: `https://${process.env.REACT_APP_AUTH0_DOMAIN}/api/v2/`,
