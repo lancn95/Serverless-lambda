@@ -121,10 +121,10 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Service registry &amp;amp; discovery&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KMA5bH4N74H8gbrznz76-37">
           <mxGeometry x="10.833333333333332" width="119.16666666666666" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KMA5bH4N74H8gbrznz76-34">
+        <mxCell id="KMA5bH4N74H8gbrznz76-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.023;entryY=0.848;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KMA5bH4N74H8gbrznz76-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="230" as="sourcePoint" />
-            <mxPoint x="600" y="200" as="targetPoint" />
+            <mxPoint x="700" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
