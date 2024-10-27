@@ -64,7 +64,7 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Notification Service&lt;/b&gt;&lt;/font&gt;&lt;br&gt;To provide &lt;strong&gt;real-time feedback&lt;/strong&gt; to the user after each transaction, we’ll use a notification service with WebSocket support to update clients immediately upon transaction success or failure." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="615" y="410" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.518;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="KMA5bH4N74H8gbrznz76-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.518;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KMA5bH4N74H8gbrznz76-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419.4300000000001" y="640.0000000000001" as="sourcePoint" />
             <mxPoint x="420.57" y="717.12" as="targetPoint" />
