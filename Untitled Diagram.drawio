@@ -50,10 +50,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="480" height="250" as="geometry" />
+          <mxGeometry x="40" y="320" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet,&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-18" value="Read Services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-19" value="Write Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-20" value="Notification Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
