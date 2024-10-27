@@ -8,16 +8,16 @@
           <mxGeometry x="40" y="10" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-2" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-3" value="Mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="51" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-4" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="49" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Client&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" width="70" height="40" as="geometry" />
+          <mxGeometry x="385" y="6" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.526;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KMA5bH4N74H8gbrznz76-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API Gateway&lt;/h1&gt;&lt;p&gt;For routing and load balancing.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="195" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.444;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.50000000000006" y="259.99999999999994" as="sourcePoint" />
+            <mxPoint x="279.58" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="480" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Microservices&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet,&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
