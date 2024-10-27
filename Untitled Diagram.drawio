@@ -31,7 +31,7 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KMA5bH4N74H8gbrznz76-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="250" as="sourcePoint" />
-            <mxPoint x="590" y="190" as="targetPoint" />
+            <mxPoint x="560" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API Gateway&lt;/h1&gt;&lt;p&gt;For routing and load balancing.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -101,7 +101,7 @@
           <mxGeometry x="500" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="590" y="140" width="120" height="70" as="geometry" />
+          <mxGeometry x="560" y="140" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KMA5bH4N74H8gbrznz76-32">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -110,13 +110,16 @@
           <mxGeometry x="10" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710" y="200" width="130" height="120" as="geometry" />
+          <mxGeometry x="710" y="160" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KMA5bH4N74H8gbrznz76-33">
-          <mxGeometry width="130" height="102.85714285714285" as="geometry" />
+        <mxCell id="KMA5bH4N74H8gbrznz76-37" value="" style="group" vertex="1" connectable="0" parent="KMA5bH4N74H8gbrznz76-33">
+          <mxGeometry y="-20" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Service registry &amp;amp; discovery&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KMA5bH4N74H8gbrznz76-33">
-          <mxGeometry x="10.833333333333332" width="119.16666666666666" height="120" as="geometry" />
+        <mxCell id="KMA5bH4N74H8gbrznz76-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KMA5bH4N74H8gbrznz76-37">
+          <mxGeometry width="130" height="94.28571428571426" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Service registry &amp;amp; discovery&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="KMA5bH4N74H8gbrznz76-37">
+          <mxGeometry x="10.833333333333332" width="119.16666666666666" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KMA5bH4N74H8gbrznz76-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
