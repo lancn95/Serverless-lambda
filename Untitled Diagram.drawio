@@ -73,6 +73,18 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="760" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-23" value="Master" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="405" y="730" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-24" value="Slave" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-25" value="Slave" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="810" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cluster Database&lt;/h1&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
