@@ -58,7 +58,7 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Read Service&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Handles read requests. Since read requests are the majority (5:1 ratio), this service will be optimized for low-latency reads and can scale horizontally.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-19" value="Write Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KMA5bH4N74H8gbrznz76-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Write Service&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Handles write requests. To ensure &lt;strong&gt;data consistency&lt;/strong&gt; and &lt;strong&gt;ACID compliance&lt;/strong&gt;, we’ll direct write requests to the master database." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="410" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-20" value="Notification Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
