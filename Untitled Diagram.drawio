@@ -28,9 +28,6 @@
         <mxCell id="KMA5bH4N74H8gbrznz76-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMA5bH4N74H8gbrznz76-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API Gateway&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="210" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="KMA5bH4N74H8gbrznz76-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Identify Provider&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="195" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KMA5bH4N74H8gbrznz76-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;API Gateway&lt;/h1&gt;&lt;p&gt;For routing and load balancing.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="195" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
